@@ -18,9 +18,9 @@ session_start();
 
 <div class="form">
     <p>You have Successfully Logged out.</p>
-    <?php header( "refresh:1;url= ../home.php" );?>
+    <?php header( "refresh:1;url= ../index.php" );?>
      
-    <a href="../home.php"><button class="button button-block"/>Home</button></a>
+    <a href="../index.php"><button class="button button-block"/>Home</button></a>
 </div>
 
 </body>

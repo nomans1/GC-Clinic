@@ -32,7 +32,7 @@ if(!$_SESSION['logged_in']){
             <nav id="menu" role="navigation">
                 <div class="brand">GC Clinic</div>
                 <ul>
-                    <li><a href="home.php">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="services.php">Services</a></li>
                     <li><a href="fee.php">Consultation Fees</a></li>
                     <li><a href="resource.php">Resources</a></li>

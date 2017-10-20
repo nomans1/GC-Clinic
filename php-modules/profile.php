@@ -57,7 +57,7 @@ else {
           <h2><?php echo $name; ?></h2>
           <p><?= $email ?></p>
           
-<?php header( "refresh:5;url= ../home.php" );?>
+<?php header( "refresh:5;url= ../index.php" );?>
     </div>
     
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
